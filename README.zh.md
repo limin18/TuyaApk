@@ -1,5 +1,6 @@
 
-## 注意：当前仓库继承自即将被废弃的涂鸦Github仓库：xxxxxx，请使用当前 Github 仓库进行涂鸦 SDK相关开发。更换远程Github仓库URL的教程，可以参考：https://github.com/TuyaInc/tuya-weapp-demo
+## 注意：这个项目是使用涂鸦SDK开发的，可以让您快速开发连接和控制多设备智能场景的品牌应用，更多信息请查看涂鸦开发者网站。
+当前仓库继承自即将被废弃的涂鸦Github仓库：xxxxxx，请使用当前 Github 仓库进行涂鸦 SDK相关开发。更换远程Github仓库URL的教程，可以参考：https://github.com/TuyaInc/tuya-weapp-demo
 
 ## 概述
 
